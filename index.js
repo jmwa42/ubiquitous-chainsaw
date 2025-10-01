@@ -463,7 +463,7 @@ app.get('/chatlogs', isAuthenticated, async (req, res) => {
     return res.render('chatlogs', { chatlogs: data });
   } catch (e) {
     const chats = readFileSafe('chats.json', []);
-    return res.render('chatlogs', { chatslogs });
+    return res.render('chatlogs', { chatlogs });
   }
 });
 
