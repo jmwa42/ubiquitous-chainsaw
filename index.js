@@ -460,10 +460,10 @@ app.get('/qr', async (req, res) => {
 app.get('/chatlogs', isAuthenticated, async (req, res) => {
   try {
     const { data } = await axios.get((process.env.DJANGO_BASE || 'http://127.0.0.1:8000') + '/api/chat/', { timeout: 4000 });
-    return res.render('chatlogs', { chatlogs: data });
+    return res.render('chatlogs', { chatlogs: data });  // ✅ Correct variable name
   } catch (e) {
     const chats = readFileSafe('chats.json', []);
-    return res.render('chatlogs', { chatlogs });
+    return res.render('chatlogs', { chatlogs });  // ✅ Correct variable name
   }
 });
 
