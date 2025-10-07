@@ -1,5 +1,19 @@
 [
   { "question": "What time does school start?", "answer": "School starts at 8:00 AM." },
-  { "question": "When do we close?", "answer": "We close at 4:00 PM." }
+  { "question": "When do we close?", "answer": "We close at 4:00 PM." },
+  { "question": "How do I enroll my child at the school?", "answer": "You can visit the school and book your slot or you can call the admin 0719767957" },
+  { "question": "What documents are required for admission?", "answer": "Transfer letter, NEMIS number, academic transcripts from former school, KNEC number " },
+  { "question": "What is the age requirement for each class?", "answer": "Playgroup 2-3yrs, Reception 3-4 yrs, PP1 4 years and above." },
+  { "question": "Are there any entrance assessments or interviews?", "answer": "No. We do not do entry interviews but we enrol depending on availability of slots per class. The maximum we can have per class is 28 learners, more than that we split the class.  We offer individualized learning." },
+  { "question": "What curriculum does the school follow?", "answer": "he Kenyan System CBE. We are a comprehensive school from playgroup up to Grade 9." },  
+  { "question": " What happens if a child is struggling academically?", "answer": " We make an IEP (Individualized Education Program) that helps the child. We also have a learning support centre." },
+  { "question": " Are extra lessons or remedial sessions offered? ", "answer": "Yes, but within the school hours - a few minutes at break time and lunch time and also early morning before lessons" },
+  { "question": "Where can uniforms be purchased? ", "answer": "The uniforms are available in school. " },
+  { "question": "What stationery or books should my child bring?", "answer": " Grade 1 to 9 we give a booklist of the text books to buy. The stationaries are provided for by the school from play group to Grade 6. Junior school get exercise books but buy their own writing materials. " },
+  { "question": "Does the school provide transport services?", "answer": " Yes it does but it is optional. " },
+  { "question": "Does the school have a nurse or first aid center?", "answer": " Yes, we have a full time nurse. " },
+  { "question": " How does the school communicate important updates (SMS, email, diary, etc.)?", "answer": " We communicate through SMS, WhatsApp, Emails, Phone calls and through our school management system." },
+  { "question": "What extracurricular activities are available? ", "answer": " We have a variety of them including swimming, ball games, smart living hub, taekwondo, ballet, chess, robotics, scouts, photography & journalism, art, modern dance. " },
+  { "question": "What fees payment methods are accepted? ", "answer": "Mpesa and cheques but not bankers cheque " },
+  { "question": " Who should I contact for fee-related inquiries?", "answer": " Our bursar is reachable on 0750767957 " }
 ]
-
